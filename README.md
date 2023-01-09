@@ -1,2 +1,1 @@
-# PrepCourse-Chiki
-Este es un repositorio de prueba chiki
+Chiki, Anai, blanquita, Anaclo 
